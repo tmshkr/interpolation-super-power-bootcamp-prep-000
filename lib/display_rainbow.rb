@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  puts "ROYGBIV"
+  puts "R: #{},O: #{},Y: #{},G: #{},B: #{},I: #{},V: #{}"
 end
